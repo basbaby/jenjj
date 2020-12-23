@@ -2,7 +2,7 @@
 1. MuleSoft 4.3
 2. Cucumber Framework
 3. REST Assured
-4. Extent Reports
+4. Extent Reportse34
 5. Java 8 (As some of the features of Anypoint Studio(deployment using maven) not compatible with higher versions.)
 
 **Prerequisites:**
